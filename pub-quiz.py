@@ -13,6 +13,11 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+      {
+        "question": "What is 2 x 2?",
+        "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
+        "answer": "B"
+    },
     # Learners can add more questions here following the same structure
 ]
 
