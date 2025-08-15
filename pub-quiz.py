@@ -18,6 +18,11 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+         {
+        "question": "What colour does Red and Blue make?",
+        "options": ["A) Purple", "B) Green", "C) Brown", "D) Yellow"],
+        "answer": "A"
+    },
     # Learners can add more questions here following the same structure
 ]
 
